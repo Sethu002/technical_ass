@@ -1,0 +1,14 @@
+input[type="text"]::placeholder {
+    color: gray;
+    font-style: italic;
+  }
+  .button {
+background-color: blue;
+color: white;
+padding: 10px 20px;
+transition: background-color 0.3s;
+}
+
+.button:hover {
+background-color: red;
+}

@@ -1,0 +1,21 @@
+:root {
+    --background-color: #f2f2f2;
+    --font-family: Arial, sans-serif;
+    --font-color: #333333;
+  }
+  
+  .container {
+    background-color: var(--background-color);
+    font-family: var(--font-family);
+    color: var(--font-color);
+    padding: 20px;
+  }
+  
+  .container::before {
+    content: "Hello!";
+    color: var(--font-color);
+  }
+  
+  .container:hover {
+    background-color: #dddddd;
+  }

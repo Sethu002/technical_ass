@@ -1,0 +1,44 @@
+.fist{
+  
+    height: 20px;
+    width: 250px;
+}
+.num{
+    height: 20px;
+    width: 60px;
+}
+.nu1{
+    height: 20px;
+    width: 180px;
+}
+.nu3,.nu2{
+    height: 20px;
+    width: 250px;
+}
+fieldset{
+    height: 550px;
+    width: 300px;
+    border-radius: 5px;
+ 
+}
+.btn{
+    padding-left: 100px;
+    padding: 10px;
+}
+button{
+    height: 25px;
+    width: 250px;
+    color: black;
+    background-color: yellow;
+    border-radius: 5px;
+    border: none;
+}
+.a2,.a4,.a1,.a5,.a6{
+    padding: 10px;
+}
+img{
+    padding-left: 80px;
+}
+.w1{
+    padding-left: 400px;
+}
